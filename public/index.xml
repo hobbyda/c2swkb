@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quiz</title>
+    <link>http://localhost:1313/c2swkb/</link>
+    <description>Recent content on Quiz</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/c2swkb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ox</title>
+      <link>http://localhost:1313/c2swkb/oxdjgnlfurdlf/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/c2swkb/oxdjgnlfurdlf/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;pre&gt;&lt;code&gt;&amp;lt;!-- 흰색 사각형 배경 --&amp;gt;&#xD;&#xA;&amp;lt;div class=&amp;quot;start&amp;quot;&amp;gt;&#xD;&#xA;    &amp;lt;img src=&amp;quot;./images/quiz_start.jpg&amp;quot; alt=&amp;quot;시작 이미지&amp;quot; class=&amp;quot;start-image&amp;quot;&amp;gt;        &#xD;&#xA;&amp;lt;/div&amp;gt;&#xD;&#xA;&amp;lt;div class=&amp;quot;content-box&amp;quot;&amp;gt;&#xD;&#xA;&#xD;&#xA;     &amp;lt;!-- Q1과 질문내용을 묶은 컨테이너 --&amp;gt;&#xD;&#xA;    &amp;lt;div class=&amp;quot;question-container&amp;quot;&amp;gt;&#xD;&#xA;        &amp;lt;div id=&amp;quot;qorder&amp;quot;class=&amp;quot;q1-text&amp;quot;&amp;gt;Q1.&amp;lt;/div&amp;gt;&#xD;&#xA;        &amp;lt;div id=&amp;quot;question-text&amp;quot; class=&amp;quot;question-text&amp;quot;&amp;gt;이곳에 질문 내용을 입력하세요. 질문은 길어질 경우 자동으로 줄바꿈됩니다.&amp;lt;/div&amp;gt;&#xD;&#xA;    &amp;lt;/div&amp;gt;&#xD;&#xA;&#xD;&#xA;    &amp;lt;!-- 버튼 컨테이너 --&amp;gt;&#xD;&#xA;    &amp;lt;div class=&amp;quot;button-container&amp;quot;&amp;gt;&#xD;&#xA;        &amp;lt;button id=&amp;quot;btno&amp;quot; class=&amp;quot;image-button&amp;quot;&amp;gt;&#xD;&#xA;        &amp;lt;/button&amp;gt;&#xD;&#xA;        &amp;lt;button id=&amp;quot;btnx&amp;quot; class=&amp;quot;image-button2&amp;quot;&amp;gt;&#xD;&#xA;        &amp;lt;/button&amp;gt;&#xD;&#xA;    &amp;lt;/div&amp;gt;&#xD;&#xA;&amp;lt;/div&amp;gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&amp;lt;div id=&amp;quot;feedback&amp;quot; style=&amp;quot;display: none;&amp;quot;&amp;gt;&#xD;&#xA;    &amp;lt;img id=&amp;quot;feedback-img&amp;quot; src=&amp;quot;&amp;quot; alt=&amp;quot;피드백 이미지&amp;quot;&amp;gt;&#xD;&#xA;  &amp;lt;/div&amp;gt;&#xD;&#xA;  &amp;lt;script src=&amp;quot;oxdjgnlfurdlf.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&#xD;&#xA;&#xD;&#xA;  &amp;lt;!-- 로딩 화면 --&amp;gt;&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
